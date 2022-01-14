@@ -5,7 +5,7 @@ Asliddin Tuxtasinov
 ___
 
 Bu projrcetning maqsadi: 
-- vaqt o'tishi bilan vaqt va vaqt oralig'idagi commitla sonini analiysis qilish.
+- vaqt o'tishi bilan vaqt va vaqt oralig'idagi commitlar sonini analiysis qilish.
 
 Ishlash tartibi:
 - `get_owner_and_repoName` shu funksiya orqali github profile egasi va repository nomini ajratib olamiz.
